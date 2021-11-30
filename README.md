@@ -1,2 +1,2 @@
-# 100daysofcode
-python 100 days of code Aug
+# 100daysofcode (linux)
+# Linux Professional Institute Preparation Exams for Linux Essentials
