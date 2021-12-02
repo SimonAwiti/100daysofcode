@@ -8,7 +8,10 @@ what is Linux?
 A family of open source Unix-like operating system, typically packaged
 into a distribution ie Ubuntu, Debian, Fedora
 ## 1.1 Linux Evolution and Popular Operating Systems
-
+Linux is majorly categorized into;
+* Distributions (Debian (dpkg -apt/aptitude), Redhat(rpm - yum/zypper))
+* Embeded systems (Arduino, Raspberry Pi, Android)
+* Linux on cloud
 
 ## The open source philosophy 
 Concept of making source codes available for public use or modification
